@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ToBePacked:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToBePacked_jar</output-path>
+    <root id="archive" name="ToBePacked.jar">
+      <element id="module-output" name="ToBePacked" />
+    </root>
+  </artifact>
+</component>
